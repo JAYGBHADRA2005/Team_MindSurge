@@ -105,3 +105,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For questions or support, please email support@calm-ai.example.com
+
+---
+
+## Virtual Try-On SaaS Prototype
+This repository also contains a proof-of-concept for a virtual try-on widget for e-commerce stores. See `virtual-tryon/README.md` for details.
